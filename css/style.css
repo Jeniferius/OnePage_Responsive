@@ -1,0 +1,79 @@
+.bg-dark {
+    background-color: black !important;
+}
+
+.jumbotron {
+    padding: 0;
+    margin-bottom: 2rem;
+    background-image: url(../images/bosque.jpg);
+    height: 850px;
+    background-size: cover;
+    color: white;
+    text-align: center;
+}
+
+.jumbotron .lead{
+    padding-top: 300px;
+}
+
+.bg-traslucido{
+    background-color: rgba(0, 0, 0, 0.6);
+    width: 100%;
+    height: 100%;
+}
+
+.btn{
+    border-radius: 0;
+}
+
+.lineatitulo{
+    border-color: black;
+    width: 70px;
+}
+
+main section{
+    padding: 30px 0;
+}
+
+main .card {
+    border: 0;
+    border-radius: 0;
+    margin-bottom: 25px;
+}
+
+main .card-img-top{
+    max-width: 60%;
+    margin: 0 auto;
+}
+
+.mb-5, .my-5{
+    margin-bottom: 4rem !important;
+}
+
+.card-title{
+    margin-bottom: .75rem;
+    color: black;
+    font-weight: bold;
+}
+
+.card-footer {
+    padding: .75rem 1.25rem;
+    background-color: transparent;
+    border-top: 0;
+    color: black !important;
+    font-size: 120%;
+}
+
+.titulo{
+    height: 100px;
+    color: white;
+    text-align: center;
+    font-size: 40px;
+    font-weight: bold;
+    margin-bottom: 40px;
+}
+
+.titulo h2{
+    padding-top: 25px;
+}
+
